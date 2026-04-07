@@ -1,8 +1,8 @@
 # Task Management API - Tech Lead Technical Assessment
 
-> **Name**: Akhmad Ramdhan Pamuji
-> **Email**: hello@arpamuji.dev
-> **Company**: PT. Digital Service Global
+> **Name**: Akhmad Ramdhan Pamuji  
+> **Email**: hello@arpamuji.dev  
+> **Company**: PT. Digital Service Global  
 
 ---
 
