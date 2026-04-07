@@ -103,9 +103,9 @@ Base URL: http://localhost:3000/api
 5. Berjalan lokal, sehingga tidak mempertimbangkan aspek deployment dan containerization dalam implementasi API ini.
 
 ### Testing
+Running tests:
 
 ```bash
-Running tests:
 npm run test
 # or
 bun run test
